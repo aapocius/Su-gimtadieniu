@@ -31,7 +31,7 @@ h2 {
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
-  animation: sveikinu 5s infinite linear;
+  animation: sveikinu 7s infinite linear;
 }
 
 .su {
@@ -45,7 +45,7 @@ h2 {
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
-  animation: su 7s infinite linear;
+  animation: su 10s infinite linear;
 }
 
 .gimtadieniu {
@@ -59,7 +59,7 @@ h2 {
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
-  animation: gimtadieniu 9s infinite linear;
+  animation: gimtadieniu 12s infinite linear;
 }
 
 @keyframes vardas {
